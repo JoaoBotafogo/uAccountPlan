@@ -1,0 +1,12 @@
+# Ignorar arquivos do Visual Studio
+.vs/
+.vscode/
+.idea/
+
+# Ignorar arquivos de build
+bin/
+obj/
+
+# Ignorar arquivos específicos de sistema
+Thumbs.db
+.DS_Store
